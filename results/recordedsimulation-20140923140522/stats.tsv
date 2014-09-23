@@ -1,0 +1,22 @@
+name	nbRequest	nbRequestOK	nbRequestKO	minResponseTime	minResponseTimeOK	minResponseTimeKO	maxResponseTime	maxResponseTimeOK	maxResponseTimeKO	meanResponseTime	meanResponseTimeOK	meanResponseTimeKO	deviation	deviationOK	deviationKO	percentile1	percentile1OK	percentile1KO	percentile2	percentile2OK	percentile2KO	group1Name	group1Count	group1Percentage	group2Name	group2Count	group2Percentage	group3Name	group3Count	group3Percentage	group4Name	group4Count	group4Percentage	meanNumberOfRequestsPerSecond	meanNumberOfRequestsPerSecondOK	meanNumberOfRequestsPerSecondKO
+Global Information	19	13	6	20	20	30	2240	450	2240	200	93	432	491	117	810	450	210	2240	2240	450	2240	t < 800 ms	13	68	800 ms < t < 1200 ms	0	0	t > 1200 ms	0	0	failed	6	31	0	0	0
+request_2	1	1	0	30	30	-1	30	30	-1	30	30	-1	0	0	-1	30	30	-1	30	30	-1	t < 800 ms	1	100	800 ms < t < 1200 ms	0	0	t > 1200 ms	0	0	failed	0	0	0	0	-1
+request_3	1	1	0	80	80	-1	80	80	-1	80	80	-1	0	0	-1	80	80	-1	80	80	-1	t < 800 ms	1	100	800 ms < t < 1200 ms	0	0	t > 1200 ms	0	0	failed	0	0	0	0	-1
+request_1	1	1	0	450	450	-1	450	450	-1	450	450	-1	0	0	-1	450	450	-1	450	450	-1	t < 800 ms	1	100	800 ms < t < 1200 ms	0	0	t > 1200 ms	0	0	failed	0	0	0	0	-1
+request_19	1	1	0	50	50	-1	50	50	-1	50	50	-1	0	0	-1	50	50	-1	50	50	-1	t < 800 ms	1	100	800 ms < t < 1200 ms	0	0	t > 1200 ms	0	0	failed	0	0	0	0	-1
+request_6	1	1	0	210	210	-1	210	210	-1	210	210	-1	0	0	-1	210	210	-1	210	210	-1	t < 800 ms	1	100	800 ms < t < 1200 ms	0	0	t > 1200 ms	0	0	failed	0	0	0	0	-1
+request_7	1	1	0	30	30	-1	30	30	-1	30	30	-1	0	0	-1	30	30	-1	30	30	-1	t < 800 ms	1	100	800 ms < t < 1200 ms	0	0	t > 1200 ms	0	0	failed	0	0	0	0	-1
+request_4	1	1	0	160	160	-1	160	160	-1	160	160	-1	0	0	-1	160	160	-1	160	160	-1	t < 800 ms	1	100	800 ms < t < 1200 ms	0	0	t > 1200 ms	0	0	failed	0	0	0	0	-1
+request_5	1	0	1	40	-1	40	40	-1	40	40	-1	40	0	-1	0	40	-1	40	40	-1	40	t < 800 ms	0	0	800 ms < t < 1200 ms	0	0	t > 1200 ms	0	0	failed	1	100	0	-1	0
+request_15	1	1	0	50	50	-1	50	50	-1	50	50	-1	0	0	-1	50	50	-1	50	50	-1	t < 800 ms	1	100	800 ms < t < 1200 ms	0	0	t > 1200 ms	0	0	failed	0	0	0	0	-1
+request_16	1	0	1	40	-1	40	40	-1	40	40	-1	40	0	-1	0	40	-1	40	40	-1	40	t < 800 ms	0	0	800 ms < t < 1200 ms	0	0	t > 1200 ms	0	0	failed	1	100	0	-1	0
+request_17	1	1	0	30	30	-1	30	30	-1	30	30	-1	0	0	-1	30	30	-1	30	30	-1	t < 800 ms	1	100	800 ms < t < 1200 ms	0	0	t > 1200 ms	0	0	failed	0	0	0	0	-1
+request_8	1	1	0	30	30	-1	30	30	-1	30	30	-1	0	0	-1	30	30	-1	30	30	-1	t < 800 ms	1	100	800 ms < t < 1200 ms	0	0	t > 1200 ms	0	0	failed	0	0	0	0	-1
+request_18	1	0	1	180	-1	180	180	-1	180	180	-1	180	0	-1	0	180	-1	180	180	-1	180	t < 800 ms	0	0	800 ms < t < 1200 ms	0	0	t > 1200 ms	0	0	failed	1	100	0	-1	0
+request_9	1	1	0	20	20	-1	20	20	-1	20	20	-1	0	0	-1	20	20	-1	20	20	-1	t < 800 ms	1	100	800 ms < t < 1200 ms	0	0	t > 1200 ms	0	0	failed	0	0	0	0	-1
+request_11	1	0	1	60	-1	60	60	-1	60	60	-1	60	0	-1	0	60	-1	60	60	-1	60	t < 800 ms	0	0	800 ms < t < 1200 ms	0	0	t > 1200 ms	0	0	failed	1	100	0	-1	0
+request_12	1	0	1	30	-1	30	30	-1	30	30	-1	30	0	-1	0	30	-1	30	30	-1	30	t < 800 ms	0	0	800 ms < t < 1200 ms	0	0	t > 1200 ms	0	0	failed	1	100	0	-1	0
+request_13	1	1	0	50	50	-1	50	50	-1	50	50	-1	0	0	-1	50	50	-1	50	50	-1	t < 800 ms	1	100	800 ms < t < 1200 ms	0	0	t > 1200 ms	0	0	failed	0	0	0	0	-1
+request_14	1	0	1	2240	-1	2240	2240	-1	2240	2240	-1	2240	0	-1	0	2240	-1	2240	2240	-1	2240	t < 800 ms	0	0	800 ms < t < 1200 ms	0	0	t > 1200 ms	0	0	failed	1	100	0	-1	0
+request_10	1	1	0	20	20	-1	20	20	-1	20	20	-1	0	0	-1	20	20	-1	20	20	-1	t < 800 ms	1	100	800 ms < t < 1200 ms	0	0	t > 1200 ms	0	0	failed	0	0	0	0	-1
+

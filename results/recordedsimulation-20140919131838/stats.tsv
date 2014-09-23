@@ -1,0 +1,13 @@
+name	nbRequest	nbRequestOK	nbRequestKO	minResponseTime	minResponseTimeOK	minResponseTimeKO	maxResponseTime	maxResponseTimeOK	maxResponseTimeKO	meanResponseTime	meanResponseTimeOK	meanResponseTimeKO	deviation	deviationOK	deviationKO	percentile1	percentile1OK	percentile1KO	percentile2	percentile2OK	percentile2KO	group1Name	group1Count	group1Percentage	group2Name	group2Count	group2Percentage	group3Name	group3Count	group3Percentage	group4Name	group4Count	group4Percentage	meanNumberOfRequestsPerSecond	meanNumberOfRequestsPerSecondOK	meanNumberOfRequestsPerSecondKO
+Global Information	5000	5000	0	10	10	-1	57290	57290	-1	3266	3266	-1	5052	5052	-1	15890	15890	-1	24700	24700	-1	t < 800 ms	2263	45	800 ms < t < 1200 ms	318	6	t > 1200 ms	2419	48	failed	0	0	72	72	-1
+request_2	500	500	0	50	50	-1	57290	57290	-1	6222	6222	-1	3928	3928	-1	17330	17330	-1	26310	26310	-1	t < 800 ms	7	1	800 ms < t < 1200 ms	20	4	t > 1200 ms	473	94	failed	0	0	7	7	-1
+request_3	500	500	0	80	80	-1	56660	56660	-1	7783	7783	-1	5098	5098	-1	17070	17070	-1	27930	27930	-1	t < 800 ms	25	5	800 ms < t < 1200 ms	16	3	t > 1200 ms	459	91	failed	0	0	7	7	-1
+request_10	500	500	0	20	20	-1	6990	6990	-1	1366	1366	-1	1012	1012	-1	3310	3310	-1	4570	4570	-1	t < 800 ms	155	31	800 ms < t < 1200 ms	48	9	t > 1200 ms	297	59	failed	0	0	7	7	-1
+request_1	500	500	0	80	80	-1	41510	41510	-1	1642	1642	-1	2685	2685	-1	5180	5180	-1	9020	9020	-1	t < 800 ms	182	36	800 ms < t < 1200 ms	125	25	t > 1200 ms	193	38	failed	0	0	7	7	-1
+request_6	500	500	0	20	20	-1	20730	20730	-1	1512	1512	-1	1865	1865	-1	4620	4620	-1	6990	6990	-1	t < 800 ms	247	49	800 ms < t < 1200 ms	39	7	t > 1200 ms	214	42	failed	0	0	7	7	-1
+request_7	500	500	0	10	10	-1	29220	29220	-1	545	545	-1	1578	1578	-1	2190	2190	-1	4090	4090	-1	t < 800 ms	431	86	800 ms < t < 1200 ms	3	0	t > 1200 ms	66	13	failed	0	0	7	7	-1
+request_4	500	500	0	10	10	-1	27920	27920	-1	1074	1074	-1	2045	2045	-1	2990	2990	-1	7350	7350	-1	t < 800 ms	337	67	800 ms < t < 1200 ms	23	4	t > 1200 ms	140	28	failed	0	0	7	7	-1
+request_5	500	500	0	10	10	-1	21460	21460	-1	960	960	-1	1888	1888	-1	3220	3220	-1	9480	9480	-1	t < 800 ms	380	76	800 ms < t < 1200 ms	21	4	t > 1200 ms	99	19	failed	0	0	7	7	-1
+request_8	500	500	0	10	10	-1	54960	54960	-1	488	488	-1	0	0	-1	1440	1440	-1	3310	3310	-1	t < 800 ms	463	92	800 ms < t < 1200 ms	5	1	t > 1200 ms	32	6	failed	0	0	7	7	-1
+request_9	500	500	0	70	70	-1	32970	32970	-1	11071	11071	-1	8228	8228	-1	24770	24770	-1	27730	27730	-1	t < 800 ms	36	7	800 ms < t < 1200 ms	18	3	t > 1200 ms	446	89	failed	0	0	7	7	-1
+
